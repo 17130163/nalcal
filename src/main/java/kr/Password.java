@@ -1,4 +1,4 @@
-﻿package main.java.kr;
+package main.java.kr;
 
 import javax.swing.*;
 import javax.swing.border.Border;

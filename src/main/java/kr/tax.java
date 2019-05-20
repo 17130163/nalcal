@@ -1,4 +1,4 @@
-﻿package main.java.kr;
+package main.java.kr;
 public class tax {
 	public double calcTax(double d,double pr) {
 	/*переменная tax хранит результат вычисления */
